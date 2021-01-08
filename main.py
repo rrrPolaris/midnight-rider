@@ -33,6 +33,13 @@ You have seen it before only on TV
 Bumblebee???
 -----Game Over-----"""
 
+Lose_Hunger = """
+
+Your stomach is empty 
+Who knew that what the octor said was true
+that g
+"""
+
 CHOICES = """
     ----
     A. eat some tofu
